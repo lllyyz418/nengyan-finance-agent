@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "sha256": "b4f1713d7b821eb076c102711d177fe942ccc2bc8dd171ae5d7a95799a65b0ad",
+      "stock_code": "300750",
+      "report_year": 2024,
+      "published_at": "2025-03-15",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2025-03-15/1222806982.PDF",
+      "verification_method": "official_pdf_sha256_match",
+      "publication_date_source": "cninfo_official_finalpage_date",
+      "verified_on": "2026-10-17",
+      "bytes": 2070073
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+.analysis-overview { scroll-margin-top: 85px; }
+.overview-document { border: 1px solid var(--border); border-top: 2px solid var(--teal); background: var(--surface); border-radius: 4px; color: var(--navy); }
+.overview-document > header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px; padding: 19px 22px; }
+.overview-document-title { display: flex; align-items: center; gap: 12px; }
+.overview-document-title > svg { color: var(--teal); flex-shrink: 0; }
+.overview-document-title h2 { margin: 0; font-size: 18px; font-weight: 650; }
+.overview-document-title p { margin: 5px 0 0; font-size: 15px; color: #5d7181; }
+.overview-document-badges { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; }
+.overview-document-state, .overview-document-demo { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; border-radius: 3px; padding: 5px 9px; border: 1px solid #d3e1e8; background: #f4f7f9; }
+.overview-document-state.complete { color: #0f766e; border-color: #bcdcd4; background: #edf7f5; }
+.overview-document-state.partial, .overview-document-demo { color: #855c19; border-color: #ecd9b7; background: #fff8e9; }
+.overview-document-state.failed { color: #a3332f; background: #fcf0ef; border-color: #edceca; }
+.overview-document-state.waiting { color: #557184; background: #f1f5f7; border-color: #d3dfe6; }
+.overview-document.is-pending .overview-document-stats article > svg, .overview-document.is-pending .overview-document-stats article strong { color: #7b909e; }
+.overview-document-stats { display: grid; grid-template-columns: minmax(0,1.2fr) repeat(2,minmax(0,1fr)); padding: 0 22px 19px; gap: 16px; }
+.overview-document-stats article { display: flex; align-items: center; gap: 11px; padding: 13px 16px; border: 1px solid #e2e8ed; background: #f8fafb; border-radius: 3px; min-width: 0; }
+.overview-document-stats article > svg { color: #31536b; flex-shrink: 0; }.overview-document-stats .gold > svg { color: #987029; }.overview-document-stats .teal > svg { color: #0f766e; }
+.overview-document-stats article > div { display: grid; gap: 5px; min-width: 0; }
+.overview-document-stats article span { font-size: 14px; color: #586e7e; }.overview-document-stats article strong { font-size: 16px; font-weight: 600; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.overview-document-details { border-top: 1px solid #e2e8ed; }
+.overview-document-details > summary { display: flex; justify-content: space-between; align-items: center; padding: 12px 22px; cursor: pointer; list-style: none; color: var(--teal); font-size: 15px; background: #fbfcfd; }
+.overview-document-details > summary::-webkit-details-marker { display: none; }
+.overview-document-details > summary:hover { background: #f0f6f5; }.overview-document-details > summary:focus-visible { outline: 2px solid var(--teal); outline-offset: -3px; }
+.overview-document-details[open] > summary svg { transform: rotate(180deg); }
+.overview-document-detail-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 20px 32px; padding: 22px; }
+.overview-document-detail-grid > div { display: grid; gap: 7px; min-width: 0; }.overview-document-detail-grid span { font-size: 14px; color: #5d7181; display: flex; align-items: center; gap: 5px; }
+.overview-document-detail-grid strong { font-weight: 550; font-size: 16px; overflow-wrap: anywhere; }.overview-document-fingerprint { grid-column: 1 / -1; }
+.overview-document-fingerprint code { font: 14px ui-monospace, monospace; overflow-wrap: anywhere; background: #f5f7f9; border: 1px solid #e3e9ed; padding: 10px 12px; border-radius: 3px; }
+.overview-document-note { margin: 0; padding: 0 22px 20px; color: #617686; font-size: 14px; line-height: 1.7; }
+@media (max-width: 1100px) { .overview-document-stats { grid-template-columns: 1fr 1fr; gap: 10px; }.overview-document-stats article:first-child { grid-column: 1 / -1; } }
+@media (max-width: 520px) { .overview-document > header { padding: 16px; }.overview-document-stats { padding: 0 16px 16px; }.overview-document-stats article { padding: 12px 10px; gap: 8px; align-items: flex-start; }.overview-document-stats article strong { font-size: 15px; }.overview-document-title h2 { font-size: 17px; }.overview-document-detail-grid { grid-template-columns: 1fr; gap: 16px; padding: 18px 16px; }.overview-document-details > summary { padding-inline: 16px; }.overview-document-note { padding-inline: 16px; } }

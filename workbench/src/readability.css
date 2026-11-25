@@ -1,0 +1,67 @@
+/* Shared reading scale. Keep auxiliary text legible across independently styled panels. */
+:root { --font-body:18px; --font-small:15px; --font-label:17px; }
+main .content { font-size:18px; line-height:1.65; }
+.content :is(p,li) { font-size:17px; line-height:1.8; }
+.content :is(small,.as-of,.coverage-tag,.engine-badge,.view-mode-badge,.config-active,.risk-count,.status,.event-type,.review-badge,.compare-status,.metric-formula,.metric-change,.metric-name-cell small,.unavailable-copy,.source-link,.table-footer,.trend-category,.trend-overline,.trend-coverage,.trend-card-stat>span,.trend-card>footer,.restatement-badge,.restatement-explanation,.peer-identity,.peer-data,.peer-suggestion-columns,.peer-suggestion-panel>footer,.peer-validation,.peer-directory-notice,.comparison-note,.analysis-tabs button,.log-column-head,.log-row time,.log-level,.log-task-meta,.log-footer,.history-created,.history-file,.history-kind,.history-status,.history-pagination) {
+  font-size:15px; line-height:1.65;
+}
+.content small { color:#60768a; }
+.content :is(label,.control-bar label>span,.configuration-card label>span,.backfill-actions label,.scan-form label,.peer-autocomplete>label,.peer-segment-filter>span,.peer-reason-grid label) { font-size:16px; }
+.content :is(input,select,textarea,.primary-button,.secondary-button,.text-button,.stop-button) { font-size:17px; }
+.content :is(.primary-button,.secondary-button,.control-input) { min-height:44px; height:auto; }
+.content :is(input,select)::placeholder { font-size:15px; color:#738597; }
+.content .section-heading h2 { font-size:26px; line-height:1.35; }
+.content .section-heading p { font-size:16px; }
+.content :is(.overview-document-title h2,.peer-builder-head strong,.review-workbench>header strong,.chart-card h3,.trend-card h3,.backfill-title h3) { font-size:21px; }
+.content :is(.metric-card__top,.risk-main strong,.overview-document-stats article strong,.peer-chosen-grid strong) { font-size:18px; }
+.content .metric-value { font-size:clamp(26px,2vw,32px); }
+.content .scroll-table :is(th,td),.content .restatement-data :is(th,td),.content .report-table :is(th,td) { font-size:17px; line-height:1.65; }
+.content .scroll-table th button { min-height:48px; height:auto; padding-block:8px; }
+.content .scroll-table td { padding-block:17px; }
+.content .table-search { min-height:44px; }
+.content .table-toolbar { flex-wrap:wrap; }
+.content :is(.comparison-head strong,.comparison-row>strong,.comparison-row>b,.comparison-row>div b,.peer-values i b,.peer-candidate-name b,.peer-lookup-result b,.scan-candidates article strong) { font-size:17px; }
+.content :is(.comparison-head,.comparison-row>span,.comparison-result>b,.trend-filters button,.log-levels button,.log-task-status,.log-row strong) { font-size:16px; }
+.content :is(.peer-input-wrap>input,.peer-segment-filter select,.peer-reason-grid input) { font-size:17px; }
+.content .peer-input-wrap>input::placeholder { font-size:15px; }
+.content .peer-candidate-list>button { min-height:92px; }
+.content .peer-suggestion-columns,.content .peer-candidate-list>button { grid-template-columns:minmax(150px,1.25fr) minmax(130px,1fr) minmax(160px,1.15fr); }
+.content .peer-chosen-grid { grid-template-columns:repeat(auto-fit,minmax(min(100%,245px),1fr)); }
+.content .peer-suggestion-panel>header strong { font-size:17px; }
+.content .peer-picker-controls { grid-template-columns:minmax(0,1fr) 240px; }
+.content .overview-document-fingerprint code { font-size:15px; }
+.content .configuration-card small { font-size:15px; }
+.content .agent-report-shell>aside>strong { font-size:19px; }
+.content .agent-report-shell>aside>small { font-size:15px; color:#b1c9d7; }
+.content .report-separation b { font-size:15px; }
+.content .report-separation small { font-size:15px!important; color:#b1c9d7!important; }
+.content .agent-report-shell>article>header { height:auto; min-height:64px; flex-wrap:wrap; gap:12px; padding:13px 18px; }
+.content .agent-report-shell>article>header strong { font-size:19px; }
+.report-export-actions { display:flex; align-items:center; flex-wrap:wrap; gap:8px; }
+.report-export-error { margin:0; padding:12px 20px; background:#fff4f2; color:#a13d35; }
+.content .markdown-body :is(p,li) { font-size:18px; line-height:1.85; }
+.content .markdown-body blockquote { font-size:17px; }
+.content .markdown-body h1 { font-size:30px; }
+.content .markdown-body h2 { font-size:25px; }
+.content .markdown-body h3 { font-size:22px; }
+.content .markdown-body h4 { font-size:20px; }
+.content .trend-no-data p { color:#667e91; }
+.content :is(.trend-card header p,.trend-card-stat>span,.trend-card>footer,.peer-candidate-name small,.peer-chosen-grid small) { color:#647c8c; }
+.content .backfill-actions { align-items:center; }
+.content .backfill-actions label { flex-direction:row; align-items:center; flex:0 1 auto; }
+.content .backfill-actions select { min-width:110px; }
+.content .log-column-head,.content .log-row { grid-template-columns:155px 115px minmax(0,1fr); }
+.modal-backdrop :is(label,input,select,textarea,button,p),.evidence-drawer :is(p,blockquote,strong) { font-size:17px; }
+.modal-backdrop small,.evidence-drawer :is(small,em,.pdf-toolbar,.drawer-note,.evidence-block>span) { font-size:15px; line-height:1.65; }
+@media(max-width:1250px) {
+  .content .peer-candidate-list>button { grid-template-columns:1fr 1fr; }
+  .content .peer-candidate-name { grid-column:1/-1; }
+}
+@media(max-width:760px) {
+  .content .peer-picker-controls { grid-template-columns:1fr; }
+  .content .section-heading h2 { font-size:24px; }
+  .content .backfill-actions { gap:12px; }
+  .content .backfill-actions label { flex:0 1 auto; }
+  .content .log-column-head,.content .log-row { grid-template-columns:120px minmax(0,1fr); }
+  .content .log-row>div { grid-column:1/-1; }
+}

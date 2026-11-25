@@ -1,0 +1,1426 @@
+{
+  "schemaVersion": "1.0",
+  "version": "2026-10-15",
+  "createdAt": "2026-10-15T05:50:25.243458+00:00",
+  "description": "新能源产业链研究候选公司目录；人工选样，非全市场清单，细分标签不构成业务可比性认证。",
+  "verifiedMeaning": "既有演示样本曾做字段标注核验，不代表所有年度或指标已验证。identityVerified仅核验代码和当前证券简称。",
+  "companyCount": 54,
+  "items": [
+    {
+      "code": "000625",
+      "name": "长安汽车",
+      "aliases": [
+        "长安汽车"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "汽车整车（含新能源）",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "000625",
+      "identityCheckedAt": "2026-10-15T05:50:23.606976+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/000625/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002074",
+      "name": "国轩高科",
+      "aliases": [
+        "国轩高科"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "动力电池与储能电池",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002074",
+      "identityCheckedAt": "2026-10-15T05:48:09.676273+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002074/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002080",
+      "name": "中材科技",
+      "aliases": [
+        "中材科技"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "风电叶片与锂电池隔膜及其他业务",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002080",
+      "identityCheckedAt": "2026-10-15T05:50:19.558370+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002080/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002202",
+      "name": "金风科技",
+      "aliases": [
+        "金风科技"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "风电整机",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002202",
+      "identityCheckedAt": "2026-10-15T05:50:12.796063+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002202/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002340",
+      "name": "格林美",
+      "aliases": [
+        "格林美"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "电池材料与资源回收",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002340",
+      "identityCheckedAt": "2026-10-15T05:50:22.958924+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002340/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002459",
+      "name": "晶澳科技",
+      "aliases": [
+        "晶澳科技"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "光伏电池与组件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002459",
+      "identityCheckedAt": "2026-10-15T05:45:42.416300+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002459/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002460",
+      "name": "赣锋锂业",
+      "aliases": [
+        "赣锋锂业"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂资源与锂电池",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002460",
+      "identityCheckedAt": "2026-10-15T05:50:21.878586+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002460/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002466",
+      "name": "天齐锂业",
+      "aliases": [
+        "天齐锂业"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂资源与锂盐",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002466",
+      "identityCheckedAt": "2026-10-15T05:50:21.531990+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002466/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002531",
+      "name": "天顺风能",
+      "aliases": [
+        "天顺风能"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "风电塔筒与海工装备",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002531",
+      "identityCheckedAt": "2026-10-15T05:47:14.873798+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002531/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002594",
+      "name": "比亚迪",
+      "aliases": [
+        "比亚迪"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "新能源汽车整车",
+      "verified": true,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002594",
+      "identityCheckedAt": "2026-10-15T05:50:12.482986+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "previous_demo_annotated_sample_only",
+      "downloadedYears": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002594/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002709",
+      "name": "天赐材料",
+      "aliases": [
+        "天赐材料"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池电解液及其他业务",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002709",
+      "identityCheckedAt": "2026-10-15T05:48:44.924385+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002709/page_type/ndbg.phtml"
+    },
+    {
+      "code": "002812",
+      "name": "恩捷股份",
+      "aliases": [
+        "恩捷股份"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池隔膜",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "002812",
+      "identityCheckedAt": "2026-10-15T05:48:28.699530+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002812/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300014",
+      "name": "亿纬锂能",
+      "aliases": [
+        "亿纬锂能"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池与储能电池",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300014",
+      "identityCheckedAt": "2026-10-15T05:50:14.698191+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300014/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300037",
+      "name": "新宙邦",
+      "aliases": [
+        "新宙邦"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池电解液及电子化学品",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300037",
+      "identityCheckedAt": "2026-10-15T05:49:03.069560+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300037/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300073",
+      "name": "当升科技",
+      "aliases": [
+        "当升科技"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池正极材料",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300073",
+      "identityCheckedAt": "2026-10-15T05:49:05.203905+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300073/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300118",
+      "name": "东方日升",
+      "aliases": [
+        "东方日升"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "光伏组件与储能",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300118",
+      "identityCheckedAt": "2026-10-15T05:50:16.785796+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300118/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300207",
+      "name": "欣旺达",
+      "aliases": [
+        "欣旺达"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池与动力电池",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300207",
+      "identityCheckedAt": "2026-10-15T05:47:34.461332+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300207/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300274",
+      "name": "阳光电源",
+      "aliases": [
+        "阳光电源"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "光伏逆变器与储能系统",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300274",
+      "identityCheckedAt": "2026-10-15T05:50:14.096293+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300274/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300393",
+      "name": "中来股份",
+      "aliases": [
+        "中来股份"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "光伏背板与电池组件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300393",
+      "identityCheckedAt": "2026-10-15T05:46:22.416517+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300393/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300438",
+      "name": "鹏辉能源",
+      "aliases": [
+        "鹏辉能源"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池与储能电池",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300438",
+      "identityCheckedAt": "2026-10-15T05:47:49.138276+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300438/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300750",
+      "name": "宁德时代",
+      "aliases": [
+        "宁德时代"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "动力电池与储能电池",
+      "verified": true,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300750",
+      "identityCheckedAt": "2026-10-15T05:50:13.447268+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "previous_demo_annotated_sample_only",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300750/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300763",
+      "name": "锦浪科技",
+      "aliases": [
+        "锦浪科技"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "光伏逆变器",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300763",
+      "identityCheckedAt": "2026-10-15T05:50:17.161038+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300763/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300769",
+      "name": "德方纳米",
+      "aliases": [
+        "德方纳米"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "锂电池正极材料",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300769",
+      "identityCheckedAt": "2026-10-15T05:48:22.858494+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300769/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300772",
+      "name": "运达股份",
+      "aliases": [
+        "运达股份"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "风电整机",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300772",
+      "identityCheckedAt": "2026-10-15T05:46:46.583399+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300772/page_type/ndbg.phtml"
+    },
+    {
+      "code": "300850",
+      "name": "新强联",
+      "aliases": [
+        "新强联"
+      ],
+      "exchange": "SZ",
+      "exchangeName": "SZSE",
+      "segment": "风电轴承",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "300850",
+      "identityCheckedAt": "2026-10-15T05:46:56.639051+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300850/page_type/ndbg.phtml"
+    },
+    {
+      "code": "600066",
+      "name": "宇通客车",
+      "aliases": [
+        "宇通客车"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "客车（含新能源）",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "600066",
+      "identityCheckedAt": "2026-10-15T05:50:24.838811+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600066/page_type/ndbg.phtml"
+    },
+    {
+      "code": "600438",
+      "name": "通威股份",
+      "aliases": [
+        "通威股份"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏硅料与电池片及其他业务",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "600438",
+      "identityCheckedAt": "2026-10-15T05:50:13.842239+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600438/page_type/ndbg.phtml"
+    },
+    {
+      "code": "600732",
+      "name": "爱旭股份",
+      "aliases": [
+        "爱旭股份"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏电池与组件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "600732",
+      "identityCheckedAt": "2026-10-15T05:50:15.636086+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600732/page_type/ndbg.phtml"
+    },
+    {
+      "code": "600733",
+      "name": "北汽蓝谷",
+      "aliases": [
+        "北汽蓝谷"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "新能源汽车整车",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "600733",
+      "identityCheckedAt": "2026-10-15T05:50:24.574611+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/600733/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601012",
+      "name": "隆基绿能",
+      "aliases": [
+        "隆基绿能"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏硅片与组件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601012",
+      "identityCheckedAt": "2026-10-15T05:50:13.116111+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601012/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601127",
+      "name": "赛力斯",
+      "aliases": [
+        "赛力斯"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "汽车整车（含新能源）",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601127",
+      "identityCheckedAt": "2026-10-15T05:50:25.242443+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601127/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601615",
+      "name": "明阳智能",
+      "aliases": [
+        "明阳智能"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "风电整机",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601615",
+      "identityCheckedAt": "2026-10-15T05:46:23.468042+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601615/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601633",
+      "name": "长城汽车",
+      "aliases": [
+        "长城汽车"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "汽车整车（含新能源）",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601633",
+      "identityCheckedAt": "2026-10-15T05:50:24.127336+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601633/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601865",
+      "name": "福莱特",
+      "aliases": [
+        "福莱特"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏玻璃",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601865",
+      "identityCheckedAt": "2026-10-15T05:46:03.696793+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601865/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601868",
+      "name": "中国能建",
+      "aliases": [
+        "中国能建"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "能源工程建设",
+      "verified": true,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601868",
+      "identityCheckedAt": "2026-10-15T05:50:15.012251+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "previous_demo_annotated_sample_only",
+      "downloadedYears": [
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [],
+      "origin": "existing",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601868/page_type/ndbg.phtml"
+    },
+    {
+      "code": "601877",
+      "name": "正泰电器",
+      "aliases": [
+        "正泰电器"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "电气设备与光伏",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "601877",
+      "identityCheckedAt": "2026-10-15T05:50:18.827624+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601877/page_type/ndbg.phtml"
+    },
+    {
+      "code": "603218",
+      "name": "日月股份",
+      "aliases": [
+        "日月股份"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "风电铸件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "603218",
+      "identityCheckedAt": "2026-10-15T05:47:01.406767+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603218/page_type/ndbg.phtml"
+    },
+    {
+      "code": "603507",
+      "name": "振江股份",
+      "aliases": [
+        "振江股份"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "风电与光伏设备结构件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "603507",
+      "identityCheckedAt": "2026-10-15T05:50:19.901537+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603507/page_type/ndbg.phtml"
+    },
+    {
+      "code": "603606",
+      "name": "东方电缆",
+      "aliases": [
+        "东方电缆"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "海缆与电缆系统",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "603606",
+      "identityCheckedAt": "2026-10-15T05:50:19.201233+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603606/page_type/ndbg.phtml"
+    },
+    {
+      "code": "603659",
+      "name": "璞泰来",
+      "aliases": [
+        "璞泰来"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "锂电池材料与设备",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "603659",
+      "identityCheckedAt": "2026-10-15T05:48:44.025242+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603659/page_type/ndbg.phtml"
+    },
+    {
+      "code": "603799",
+      "name": "华友钴业",
+      "aliases": [
+        "华友钴业"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "电池金属与正极材料",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "603799",
+      "identityCheckedAt": "2026-10-15T05:50:22.316796+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603799/page_type/ndbg.phtml"
+    },
+    {
+      "code": "603806",
+      "name": "福斯特",
+      "aliases": [
+        "福斯特"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏封装材料",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "603806",
+      "identityCheckedAt": "2026-10-15T05:46:06.177047+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603806/page_type/ndbg.phtml"
+    },
+    {
+      "code": "605117",
+      "name": "德业股份",
+      "aliases": [
+        "德业股份"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "逆变器及其他业务",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "605117",
+      "identityCheckedAt": "2026-10-15T05:50:18.507718+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/605117/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688005",
+      "name": "容百科技",
+      "aliases": [
+        "容百科技"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "锂电池正极材料",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688005",
+      "identityCheckedAt": "2026-10-15T05:50:21.175615+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688005/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688032",
+      "name": "禾迈股份",
+      "aliases": [
+        "禾迈股份"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏微型逆变器",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688032",
+      "identityCheckedAt": "2026-10-15T05:50:17.802689+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688032/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688063",
+      "name": "派能科技",
+      "aliases": [
+        "派能科技"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "储能电池系统",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688063",
+      "identityCheckedAt": "2026-10-15T05:48:04.893355+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688063/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688223",
+      "name": "晶科能源",
+      "aliases": [
+        "晶科能源"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏电池与组件",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688223",
+      "identityCheckedAt": "2026-10-15T05:50:15.322138+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688223/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688348",
+      "name": "昱能科技",
+      "aliases": [
+        "昱能科技"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏微型逆变器",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688348",
+      "identityCheckedAt": "2026-10-15T05:50:18.138653+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688348/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688349",
+      "name": "三一重能",
+      "aliases": [
+        "三一重能"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "风电整机",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688349",
+      "identityCheckedAt": "2026-10-15T05:50:20.536615+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688349/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688390",
+      "name": "固德威",
+      "aliases": [
+        "固德威"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏逆变器与储能",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688390",
+      "identityCheckedAt": "2026-10-15T05:50:17.472435+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688390/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688472",
+      "name": "阿特斯",
+      "aliases": [
+        "阿特斯"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏组件与储能系统",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688472",
+      "identityCheckedAt": "2026-10-15T05:50:16.081480+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688472/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688503",
+      "name": "聚和材料",
+      "aliases": [
+        "聚和材料"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏导电浆料",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688503",
+      "identityCheckedAt": "2026-10-15T05:50:16.496525+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688503/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688599",
+      "name": "天合光能",
+      "aliases": [
+        "天合光能"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "光伏组件与系统",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688599",
+      "identityCheckedAt": "2026-10-15T05:45:42.438851+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "newCorpusYears": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "origin": "new_20",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688599/page_type/ndbg.phtml"
+    },
+    {
+      "code": "688660",
+      "name": "电气风电",
+      "aliases": [
+        "电气风电"
+      ],
+      "exchange": "SH",
+      "exchangeName": "SSE",
+      "segment": "风电整机",
+      "verified": false,
+      "identityVerified": true,
+      "identitySource": "https://www.cninfo.com.cn/new/information/topSearch/query",
+      "identityQuery": "688660",
+      "identityCheckedAt": "2026-10-15T05:50:20.756775+00:00",
+      "segmentMethod": "research_curated_not_official_industry_classification",
+      "parserValidationScope": "not_field_validated",
+      "downloadedYears": [],
+      "newCorpusYears": [],
+      "origin": "directory_only",
+      "sinaAnnualReportsUrl": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688660/page_type/ndbg.phtml"
+    }
+  ],
+  "failures": []
+}

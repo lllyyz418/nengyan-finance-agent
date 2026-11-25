@@ -1,0 +1,6 @@
+{
+  "allow_online_reports": false,
+  "backend_port": 8001,
+  "workbench_port": 5173,
+  "homepage_port": 5181
+}

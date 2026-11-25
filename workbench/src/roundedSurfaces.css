@@ -1,0 +1,40 @@
+/* Screen-only surface styling. Preserve sizing, popovers, inner scrolling and PDF export. */
+@media screen {
+  .content :is(.control-bar,.report-summary,.analysis-mode-banner,.analysis-placeholder,
+    .overview-document,.document-status,.agent-report-shell,.trend-shell,.table-wrap,
+    .configuration-card,.review-center,.announcement-card,.announcement-note,
+    .runtime-logs,.history-toolbar,.history-record,.history-empty,.history-message,
+    .backfill-controls,.backfill-manual,.peer-suggestion-panel,.sr-viewer) {
+    border-radius:16px;
+  }
+  .content :is(.metric-card,.risk-row,.chart-card,.trend-card,.trend-overview,
+    .history-stats article,.overview-document-stats article,.peer-chosen-grid article,
+    .review-decisions article,.scan-candidates article,.sr-card) {
+    border-radius:16px;
+  }
+  /* Round painted children without clipping evidence links or focus rings. */
+  .content .risk-summary { border-radius:inherit; }
+  .content .risk-summary[aria-expanded="true"] { border-bottom-left-radius:0; border-bottom-right-radius:0; }
+  .content .agent-report-shell > aside { border-radius:15px 0 0 15px; }
+  .content .agent-report-shell > article,
+  .content .agent-report-shell > article > header { border-top-right-radius:15px; }
+  .content .agent-report-shell > article { border-bottom-right-radius:15px; }
+  .content .table-wrap > .table-toolbar,
+  .content .runtime-logs > .log-header,
+  .content .trend-shell > .analysis-tabs { border-radius:15px 15px 0 0; }
+  .content .table-wrap > .scroll-table:last-child { border-radius:0 0 15px 15px; }
+  .content .overview-document-details:not([open]) > summary { border-radius:0 0 15px 15px; }
+  .content .announcement-date { border-radius:15px 0 0 15px; }
+  .content :is(.metric-formula,.research-proof,.research-evidence,.research-coverage,
+    .research-observed,.research-signals > div,.sr-workbench fieldset) { border-radius:10px; }
+  .content :is(.primary-button,.secondary-button,.stop-button,.control-input,.table-search,
+    .history-search,.research-tabs button,.sr-root button) { border-radius:8px; }
+  .modal-backdrop :is(.upload-dialog,.history-detail) { border-radius:18px; }
+  .modal-backdrop .drop-zone { border-radius:12px; }
+}
+@media screen and (max-width:700px) {
+  .content .agent-report-shell > aside { border-radius:15px 15px 0 0; }
+  .content .agent-report-shell > article { border-radius:0 0 15px 15px; }
+  .content .research-shell > article { border-radius:15px; }
+  .content .research-shell > article > header { border-top-left-radius:15px; }
+}

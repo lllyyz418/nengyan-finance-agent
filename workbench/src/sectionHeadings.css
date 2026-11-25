@@ -1,0 +1,86 @@
+/* Workbench module dividers only: do not restyle chart/report headings or PDF output. */
+@media screen {
+  .content .section-block { margin-top:32px; }
+  .content .section-block > .section-heading {
+    min-height:60px;
+    margin-bottom:18px;
+    padding:14px 20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:16px 24px;
+    background:linear-gradient(110deg,#0d293b 0%,#124556 42%,#1b616b 74%,#287e78 100%);
+    border:1px solid rgb(60 128 135 / 45%);
+    border-radius:18px;
+    box-shadow:0 4px 14px rgb(10 35 49 / 9%),inset 0 1px 0 rgb(255 255 255 / 7%);
+  }
+  .content .section-block > .section-heading > div {
+    min-width:0;
+    gap:14px;
+  }
+  .content .section-block > .section-heading > div > div { min-width:0; }
+  .content .section-block > .section-heading .section-index {
+    flex:0 0 32px;
+    width:32px;
+    height:32px;
+    background:#e5f3f0;
+    border-color:#9bcfc5;
+    border-radius:4px;
+    color:#135e62;
+    font-size:11px;
+  }
+  .content .section-block > .section-heading .section-index.alert {
+    background:#fff0eb;
+    border-color:#efb6aa;
+    color:#a33c32;
+  }
+  .content .section-block > .section-heading h2 {
+    color:#f4fafc;
+    font-size:24px;
+    font-weight:800;
+    line-height:1.4;
+    overflow-wrap:anywhere;
+  }
+  .content .section-block > .section-heading h2::after { display:none; }
+  .content .section-block > .section-heading p {
+    max-width:none;
+    margin:4px 0 0;
+    color:#c2d8e0;
+    font-size:15px;
+    line-height:1.6;
+  }
+  .content .section-block > .section-heading > :is(.as-of,.coverage-tag,.config-active,.risk-count) {
+    flex:0 1 auto;
+    max-width:42%;
+    margin:0;
+    color:#d0e5ea;
+    font-size:14px;
+    line-height:1.65;
+    white-space:normal;
+    overflow-wrap:anywhere;
+  }
+  .content .section-block > .section-heading > :is(.coverage-tag,.config-active) {
+    padding:4px 10px;
+    background:rgb(141 210 197 / 10%);
+    border:1px solid rgb(141 210 197 / 45%);
+    border-radius:4px;
+    color:#c5eee5;
+  }
+  .content .section-block > .section-heading > .risk-count { color:#ffc1b6; }
+  .content .section-block > .section-heading > span svg { flex-shrink:0; }
+}
+
+@media screen and (max-width:760px) {
+  .content .section-block > .section-heading {
+    padding:14px 16px;
+    flex-wrap:wrap;
+    gap:10px 16px;
+  }
+  .content .section-block > .section-heading > div { flex:1 1 100%; align-items:flex-start; }
+  .content .section-block > .section-heading h2 { font-size:22px; }
+  .content .section-block > .section-heading .section-index { margin-top:1px; }
+  .content .section-block > .section-heading > :is(.as-of,.coverage-tag,.config-active,.risk-count) {
+    max-width:100%;
+    margin-left:46px;
+  }
+}

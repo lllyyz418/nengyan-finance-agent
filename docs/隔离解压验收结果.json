@@ -1,0 +1,69 @@
+{
+  "runtime_check": "[OK] ssl\n[OK] sqlite3\n[OK] ctypes\n[OK] fastapi\n[OK] uvicorn\n[OK] dotenv\n[OK] openai\n[OK] pdfplumber\n[OK] pypdfium2\n[OK] rapidocr\n[OK] onnxruntime\n[OK] cv2\n[OK] numpy\n材料就绪：66份不同PDF，64条可核验历史任务。\n环境检查通过。OCR模型如未随当前环境提供，首次调用可能需要下载；候选仍需人工确认。\n",
+  "ports": [
+    18301,
+    18303,
+    18381
+  ],
+  "browser_ui_tested": false,
+  "checks": {
+    "backend_health": {
+      "status": "ok",
+      "engine_version": "0.17",
+      "llm_configured": false,
+      "api_revision": "upload-errors-1",
+      "runtime_revision": "responsive-analysis-1",
+      "announcement_revision": "evidence-agent-1.1.0",
+      "report_types": [
+        "annual",
+        "semiannual",
+        "quarterly"
+      ],
+      "online_search": "disabled_by_configuration",
+      "report_library": {
+        "available": true,
+        "pdf_count": 51,
+        "companies_with_reports": 23,
+        "snapshot": "2026-10-15"
+      }
+    },
+    "homepage": true,
+    "frontend_current_assets": [
+      "/assets/index-CH-bcjwx.js",
+      "/assets/index-CIBc7eDN.css"
+    ],
+    "history_summary": {
+      "total": 37,
+      "keys": [
+        "items",
+        "total",
+        "page",
+        "page_size",
+        "statistics",
+        "years"
+      ]
+    },
+    "saved_task_result_and_pdf": {
+      "task_id": "20c2302aca244d2d82f74d56e829c533",
+      "pdf_bytes": 216884
+    },
+    "fresh_pdf_analysis": {
+      "status": "completed",
+      "seconds": 38.5,
+      "metrics": 26,
+      "facts": 64,
+      "task_id": "29890b49b24c42878288fb0516707b7a"
+    },
+    "fresh_pdf_evidence_file": true,
+    "fact_evidence": true,
+    "offline_ocr": {
+      "network_disabled": true,
+      "recognized_text": "财务报告12345",
+      "models_bundled": true,
+      "result": "passed"
+    }
+  },
+  "source_pdf_count": 66,
+  "omitted_pdf_count": 99,
+  "result": "passed"
+}

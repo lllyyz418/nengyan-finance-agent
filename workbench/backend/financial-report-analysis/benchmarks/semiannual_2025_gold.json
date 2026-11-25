@@ -1,0 +1,65 @@
+{
+  "description": "Manually transcribed selected values from the specified official 2025 H1 PDFs. Amounts normalized to CNY; PDF pages are one-based.",
+  "samples": [
+    {
+      "stock_code": "002594",
+      "company_name": "比亚迪股份有限公司",
+      "sha256": "c42620b87a67995ed7c2bc78fbcc99bede6732fede6a0dbb3f49221ac1ec96ea",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224626653.PDF",
+      "assurance": "unaudited",
+      "facts": [
+        {"period": "2025H1", "code": "revenue", "value": "371280948000", "page": 7},
+        {"period": "2024H1", "code": "revenue", "value": "301126713000", "page": 7},
+        {"period": "2025H1", "code": "attributable_net_profit", "value": "15510533000", "page": 7},
+        {"period": "2025H1", "code": "operating_cash_flow", "value": "31833471000", "page": 7},
+        {"period": "2024H1", "code": "operating_cash_flow", "value": "14178310000", "page": 7},
+        {"period": "2025-06-30", "code": "total_assets", "value": "846342643000", "page": 7},
+        {"period": "2024-12-31", "code": "total_assets", "value": "783355855000", "page": 7},
+        {"period": "2025H1", "code": "operating_cost", "value": "304415089000", "page": 65},
+        {"period": "2025-06-30", "code": "inventory", "value": "140839351000", "page": 63},
+        {"period": "2024-12-31", "code": "inventory", "value": "116036237000", "page": 63},
+        {"period": "2025H1", "code": "capital_expenditure_cash_paid", "value": "80524516000", "page": 69}
+      ]
+    },
+    {
+      "stock_code": "300750",
+      "company_name": "宁德时代新能源科技股份有限公司",
+      "sha256": "94da19aaaf50205fa69d8afa9598262e1c785159c34c42f459bd1104fa14c46f",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2025-07-31/1224342874.PDF",
+      "assurance": "unaudited",
+      "facts": [
+        {"period": "2025H1", "code": "revenue", "value": "178886253000", "page": 7},
+        {"period": "2024H1", "code": "revenue", "value": "166766834000", "page": 7},
+        {"period": "2025H1", "code": "attributable_net_profit", "value": "30485139000", "page": 7},
+        {"period": "2025H1", "code": "operating_cash_flow", "value": "58687066000", "page": 7},
+        {"period": "2024H1", "code": "operating_cash_flow", "value": "44708955000", "page": 7},
+        {"period": "2025-06-30", "code": "total_assets", "value": "867181431000", "page": 7},
+        {"period": "2024-12-31", "code": "total_assets", "value": "786658123000", "page": 7},
+        {"period": "2025H1", "code": "operating_cost", "value": "134123603000", "page": 68},
+        {"period": "2025-06-30", "code": "inventory", "value": "72272139000", "page": 63},
+        {"period": "2024-12-31", "code": "inventory", "value": "59835533000", "page": 63},
+        {"period": "2025H1", "code": "capital_expenditure_cash_paid", "value": "20212919000", "page": 72}
+      ]
+    },
+    {
+      "stock_code": "601868",
+      "company_name": "中国能源建设股份有限公司",
+      "sha256": "6f074a10dd40cd2cc1494cfdd105465332e648f906e565ae8cfb2b6ad071cf2d",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224610873.PDF",
+      "assurance": "limited_review",
+      "facts": [
+        {"period": "2025H1", "code": "revenue", "value": "212091238000", "page": 10},
+        {"period": "2024H1", "code": "revenue", "value": "194261759000", "page": 10},
+        {"period": "2025H1", "code": "attributable_net_profit", "value": "2801838000", "page": 10},
+        {"period": "2025H1", "code": "operating_cash_flow", "value": "-13400893000", "page": 10},
+        {"period": "2024H1", "code": "operating_cash_flow", "value": "-14514997000", "page": 10},
+        {"period": "2025-06-30", "code": "total_assets", "value": "938735064000", "page": 10},
+        {"period": "2024-12-31", "code": "total_assets", "value": "869004776000", "page": 10},
+        {"period": "2025H1", "code": "operating_cost", "value": "188154591000", "page": 100},
+        {"period": "2025-06-30", "code": "inventory", "value": "83086334000", "page": 96},
+        {"period": "2024-12-31", "code": "inventory", "value": "74877095000", "page": 96},
+        {"period": "2025H1", "code": "capital_expenditure_cash_paid", "value": "21434757000", "page": 105}
+      ]
+    }
+  ]
+}

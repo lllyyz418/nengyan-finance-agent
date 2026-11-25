@@ -1,0 +1,2128 @@
+{
+  "schema_version": "1.0",
+  "snapshot_version": "2026-10-15",
+  "created_at": "2026-10-15T07:07:08.090272+00:00",
+  "raw_source_file_count": 134,
+  "unique_pdf_count": 51,
+  "deduplicated_file_count": 1,
+  "company_count": 23,
+  "reports": [
+    {
+      "stock_code": "002074",
+      "company_name": "国轩高科",
+      "report_year": 2022,
+      "report_type": "annual",
+      "relative_path": "reports/002074/2022_5f1037d1f4e4ef52.pdf",
+      "sha256": "5f1037d1f4e4ef525605ec8c2274c095346ffae05a20d49ce54354cf3e166cfb",
+      "bytes": 1688361,
+      "page_count": 306,
+      "original_filenames": [
+        "2022_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "国轩高科：2022年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2023/2023-4/2023-04-28/9156029.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002074/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002074&id=9156029",
+      "published_at": "2023-04-28",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "9156029",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "国轩高科：2022年年度报告",
+            "published_date": "2023-04-28",
+            "announcement_id": "9156029",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002074&id=9156029"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2022年年度报告",
+            "published_date": "2023-04-28",
+            "announcement_id": "1216662624",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002074&announcementId=1216662624"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.903867+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002074",
+      "company_name": "国轩高科",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/002074/2025_2a255f70026f280d.pdf",
+      "sha256": "2a255f70026f280deb60691a7937b662615a1b1addb2ce379a56e95698e358fb",
+      "bytes": 1557390,
+      "page_count": 265,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "国轩高科：2025年年度报告2",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-29/12275113.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002074/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002074&id=12275113",
+      "published_at": "2026-04-29",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12275113",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "国轩高科：2025年年度报告2",
+            "published_date": "2026-04-29",
+            "announcement_id": "12275113",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002074&id=12275113"
+          },
+          {
+            "discovery_source": "sina",
+            "title": "国轩高科：2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "12264879",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002074&id=12264879"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "1225254220",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002074&announcementId=1225254220"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.961010+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002202",
+      "company_name": "金风科技",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/002202/2023_b57882783b5015b1.pdf",
+      "sha256": "b57882783b5015b19a1f44c436c07906cda6538b28ea911446d2ecb6777bf732",
+      "bytes": 1757555,
+      "page_count": 265,
+      "original_filenames": [
+        "金风科技2023.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "金风科技：2023年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "002202",
+      "company_name": "金风科技",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/002202/2024_372fa6a46a7c1334.pdf",
+      "sha256": "372fa6a46a7c13346be5569e67359dd0ff9820dee1c903bdc08e3de8dc47ba26",
+      "bytes": 1797507,
+      "page_count": 264,
+      "original_filenames": [
+        "金风科技2024.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "金风科技：2024年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "002459",
+      "company_name": "晶澳科技",
+      "report_year": 2021,
+      "report_type": "annual",
+      "relative_path": "reports/002459/2021_93ebcd2f9ef7ed6a.pdf",
+      "sha256": "93ebcd2f9ef7ed6ab2d97f48f55a708781405e9477d812ea1e5d09cf8adb3819",
+      "bytes": 2316495,
+      "page_count": 278,
+      "original_filenames": [
+        "2021_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "晶澳科技：2021年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2022/2022-4/2022-04-30/8176019.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002459/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002459&id=8176019",
+      "published_at": "2022-04-30",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "8176019",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "晶澳科技：2021年年度报告",
+            "published_date": "2022-04-30",
+            "announcement_id": "8176019",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002459&id=8176019"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2021年年度报告",
+            "published_date": "2022-04-30",
+            "announcement_id": "1213254843",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002459&announcementId=1213254843"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:56.915686+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002531",
+      "company_name": "天顺风能",
+      "report_year": 2022,
+      "report_type": "annual",
+      "relative_path": "reports/002531/2022_3c64de674ea2b451.pdf",
+      "sha256": "3c64de674ea2b451c0482d0ed24caf427dabcb6b8df465dd40d72313c24d9b60",
+      "bytes": 3257795,
+      "page_count": 180,
+      "original_filenames": [
+        "2022_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "天顺风能：2022年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2023/2023-4/2023-04-29/9162036.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002531/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=9162036",
+      "published_at": "2023-04-29",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "9162036",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "天顺风能：2022年年度报告",
+            "published_date": "2023-04-29",
+            "announcement_id": "9162036",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=9162036"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2022年年度报告",
+            "published_date": "2023-04-29",
+            "announcement_id": "1216684708",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002531&announcementId=1216684708"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.547401+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002531",
+      "company_name": "天顺风能",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/002531/2023_05ccd4b24f18a8cc.pdf",
+      "sha256": "05ccd4b24f18a8cc2c9237287e957b438149d3bc88fd1614b485857a16b3d1bc",
+      "bytes": 3248671,
+      "page_count": 180,
+      "original_filenames": [
+        "2023_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "天顺风能：2023年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2024/2024-4/2024-04-27/10108405.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002531/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=10108405",
+      "published_at": "2024-04-27",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10108405",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "天顺风能：2023年年度报告",
+            "published_date": "2024-04-27",
+            "announcement_id": "10108405",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=10108405"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2023年年度报告",
+            "published_date": "2024-04-27",
+            "announcement_id": "1219857992",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002531&announcementId=1219857992"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.568620+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002531",
+      "company_name": "天顺风能",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/002531/2024_3697e42d02151d85.pdf",
+      "sha256": "3697e42d02151d85721215ef9bc1cf1a8177b22d80eb2d207296bbc0b2f5ab93",
+      "bytes": 3279536,
+      "page_count": 186,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "天顺风能：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2025/2025-4/2025-04-25/10964123.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002531/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=10964123",
+      "published_at": "2025-04-25",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10964123",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "天顺风能：2024年年度报告",
+            "published_date": "2025-04-25",
+            "announcement_id": "10964123",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=10964123"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2024年年度报告",
+            "published_date": "2025-04-25",
+            "announcement_id": "1223267753",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002531&announcementId=1223267753"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.590642+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002531",
+      "company_name": "天顺风能",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/002531/2025_dbb81225b75cc485.pdf",
+      "sha256": "dbb81225b75cc4859f6cf5d28ac2e4e03959e09c74507b0c185dddd98b1974f5",
+      "bytes": 1328187,
+      "page_count": 191,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "天顺风能：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-31/12039524.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002531/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=12039524",
+      "published_at": "2026-03-31",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12039524",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "天顺风能：2025年年度报告",
+            "published_date": "2026-03-31",
+            "announcement_id": "12039524",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002531&id=12039524"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-03-31",
+            "announcement_id": "1225053622",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002531&announcementId=1225053622"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.608292+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002594",
+      "company_name": "比亚迪",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/002594/2023_959b00a12055470a.pdf",
+      "sha256": "959b00a12055470a63962303d90557dca90e84d104d92025aeb70805aa7cc036",
+      "bytes": 9638124,
+      "page_count": 266,
+      "original_filenames": [
+        "比亚迪2023.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "比亚迪：2023年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "002594",
+      "company_name": "比亚迪",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/002594/2024_e9c2d7fdd088e151.pdf",
+      "sha256": "e9c2d7fdd088e151ccb6c8ad3d95587b2b014b10f2c9731508d23ce07fde4de3",
+      "bytes": 10092140,
+      "page_count": 290,
+      "original_filenames": [
+        "比亚迪2024.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "比亚迪：2024年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "002594",
+      "company_name": "比亚迪",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/002594/2025_710d8b2e08e37ba5.pdf",
+      "sha256": "710d8b2e08e37ba521f1c4071d2c3e2369d3cadabc21a45073215d9f72138b0b",
+      "bytes": 7533972,
+      "page_count": 268,
+      "original_filenames": [
+        "比亚迪2025.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "比亚迪：2025年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "002812",
+      "company_name": "恩捷股份",
+      "report_year": 2021,
+      "report_type": "annual",
+      "relative_path": "reports/002812/2021_35a43c366d0ba7a8.pdf",
+      "sha256": "35a43c366d0ba7a83905bf5d016066a8e2d2701fa867765eca13dd827b2c6dfa",
+      "bytes": 1670395,
+      "page_count": 255,
+      "original_filenames": [
+        "2021_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "2021年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2022-04-12/1212886603.PDF",
+      "catalogue_url": "https://www.cninfo.com.cn/new/hisAnnouncement/query",
+      "disclosure_page": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002812&announcementId=1212886603",
+      "published_at": "2022-04-12",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "cninfo",
+        "announcement_id": "1212886603",
+        "observed_versions": [
+          {
+            "discovery_source": "cninfo",
+            "title": "2021年年度报告",
+            "published_date": "2022-04-12",
+            "announcement_id": "1212886603",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002812&announcementId=1212886603"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.014085+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002812",
+      "company_name": "恩捷股份",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/002812/2023_0eeefd26d3114140.pdf",
+      "sha256": "0eeefd26d31141408ca245ffcf957294ecb7ef349a81c3887fc78334f6a2c71e",
+      "bytes": 1557578,
+      "page_count": 217,
+      "original_filenames": [
+        "2023_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "恩捷股份：2023年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2024/2024-4/2024-04-25/10057658.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002812/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002812&id=10057658",
+      "published_at": "2024-04-25",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10057658",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "恩捷股份：2023年年度报告",
+            "published_date": "2024-04-25",
+            "announcement_id": "10057658",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002812&id=10057658"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2023年年度报告",
+            "published_date": "2024-04-25",
+            "announcement_id": "1219795065",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002812&announcementId=1219795065"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.051312+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002812",
+      "company_name": "恩捷股份",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/002812/2024_846517999c519d24.pdf",
+      "sha256": "846517999c519d249b153f6cad87ab806500aca6b09406d5e8999f4b73234c03",
+      "bytes": 1627897,
+      "page_count": 208,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "恩捷股份：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2025/2025-4/2025-04-23/10938635.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002812/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002812&id=10938635",
+      "published_at": "2025-04-23",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10938635",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "恩捷股份：2024年年度报告",
+            "published_date": "2025-04-23",
+            "announcement_id": "10938635",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002812&id=10938635"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2024年年度报告",
+            "published_date": "2025-04-23",
+            "announcement_id": "1223220212",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002812&announcementId=1223220212"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.067600+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "002812",
+      "company_name": "恩捷股份",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/002812/2025_99206da4fa5fe3ae.pdf",
+      "sha256": "99206da4fa5fe3aea264af0e17b41dc69a2cdaa1292ecd6f1d61927eb347f685",
+      "bytes": 1548364,
+      "page_count": 212,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "恩捷股份：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-23/12145665.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/002812/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002812&id=12145665",
+      "published_at": "2026-04-23",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12145665",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "恩捷股份：2025年年度报告",
+            "published_date": "2026-04-23",
+            "announcement_id": "12145665",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=002812&id=12145665"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-04-23",
+            "announcement_id": "1225148267",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=002812&announcementId=1225148267"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.086630+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300014",
+      "company_name": "亿纬锂能",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300014/2025_3bee0ca9a6232c60.pdf",
+      "sha256": "3bee0ca9a6232c60c53f195d078446a45fd4941bd997258b474cebe835eea3b8",
+      "bytes": 5815598,
+      "page_count": 222,
+      "original_filenames": [
+        "亿纬锂能2025(1).pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "亿纬锂能：2025年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "300073",
+      "company_name": "当升科技",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300073/2025_48d7ebcf4c26e46d.pdf",
+      "sha256": "48d7ebcf4c26e46dc267b3a773d1a47637e6230d68df65ec537552b795bd5cce",
+      "bytes": 1329146,
+      "page_count": 205,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "当升科技：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-31/12043545.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300073/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300073&id=12043545",
+      "published_at": "2026-03-31",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12043545",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "当升科技：2025年年度报告",
+            "published_date": "2026-03-31",
+            "announcement_id": "12043545",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300073&id=12043545"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-03-31",
+            "announcement_id": "1225057127",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300073&announcementId=1225057127"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.369117+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300393",
+      "company_name": "中来股份",
+      "report_year": 2021,
+      "report_type": "annual",
+      "relative_path": "reports/300393/2021_16d0af458df90053.pdf",
+      "sha256": "16d0af458df90053f08f0eb4e1986249c7de30a76843e01d5fdc2fb877d1610b",
+      "bytes": 2751669,
+      "page_count": 309,
+      "original_filenames": [
+        "2021_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "中来股份：2021年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2022/2022-4/2022-04-26/8075049.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300393/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300393&id=8075049",
+      "published_at": "2022-04-26",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "8075049",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "中来股份：2021年年度报告",
+            "published_date": "2022-04-26",
+            "announcement_id": "8075049",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300393&id=8075049"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2021年年度报告",
+            "published_date": "2022-04-26",
+            "announcement_id": "1213107217",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300393&announcementId=1213107217"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.227447+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300438",
+      "company_name": "鹏辉能源",
+      "report_year": 2021,
+      "report_type": "annual",
+      "relative_path": "reports/300438/2021_f2bc0c953a10c642.pdf",
+      "sha256": "f2bc0c953a10c64291ba2f690e2bb31eb72cce436338204370379757c1958d7d",
+      "bytes": 2592211,
+      "page_count": 228,
+      "original_filenames": [
+        "2021_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "鹏辉能源：2021年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2022/2022-4/2022-04-28/8125626.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300438/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300438&id=8125626",
+      "published_at": "2022-04-28",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "8125626",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "鹏辉能源：2021年年度报告",
+            "published_date": "2022-04-28",
+            "announcement_id": "8125626",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300438&id=8125626"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2021年年度报告",
+            "published_date": "2022-04-28",
+            "announcement_id": "1213172089",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300438&announcementId=1213172089"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.745267+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300438",
+      "company_name": "鹏辉能源",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300438/2025_7e0b0011799bdb9e.pdf",
+      "sha256": "7e0b0011799bdb9ef6f6c391848ec78bcbf1107a8672cac53bd27fc958fb98a3",
+      "bytes": 1710913,
+      "page_count": 234,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "鹏辉能源：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-29/12265701.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300438/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300438&id=12265701",
+      "published_at": "2026-04-29",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12265701",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "鹏辉能源：2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "12265701",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300438&id=12265701"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "1225243780",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300438&announcementId=1225243780"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.817842+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300750",
+      "company_name": "宁德时代",
+      "report_year": 2021,
+      "report_type": "annual",
+      "relative_path": "reports/300750/2021_060a73fa73d896d0.pdf",
+      "sha256": "060a73fa73d896d0dce4ea2215dc4d616f92b60aed64a8c09028430def38a4ca",
+      "bytes": 6316659,
+      "page_count": 234,
+      "original_filenames": [
+        "宁德时代2021.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "宁德时代：2021年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "300750",
+      "company_name": "宁德时代",
+      "report_year": 2022,
+      "report_type": "annual",
+      "relative_path": "reports/300750/2022_ac4fa5c3b9695646.pdf",
+      "sha256": "ac4fa5c3b96956462054986773b0c6129189ba6dcdc257c737f1b398ca7e2a10",
+      "bytes": 5531730,
+      "page_count": 209,
+      "original_filenames": [
+        "宁德时代2022.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "宁德时代：2022年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "300750",
+      "company_name": "宁德时代",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/300750/2023_6081f0377617dddb.pdf",
+      "sha256": "6081f0377617dddb82f900569d6458c278a7ab26697b34c87684188eac083471",
+      "bytes": 5986207,
+      "page_count": 231,
+      "original_filenames": [
+        "宁德时代2023.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "宁德时代：2023年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "300750",
+      "company_name": "宁德时代",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/300750/2024_b4f1713d7b821eb0.pdf",
+      "sha256": "b4f1713d7b821eb076c102711d177fe942ccc2bc8dd171ae5d7a95799a65b0ad",
+      "bytes": 2070073,
+      "page_count": 229,
+      "original_filenames": [
+        "宁德时代2024.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "宁德时代：2024年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "300750",
+      "company_name": "宁德时代",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300750/2025_c15272977147dee7.pdf",
+      "sha256": "c15272977147dee7e6935a38ea0e4fd6855370aabb106f54cfe20f7cf6048ec9",
+      "bytes": 2043710,
+      "page_count": 232,
+      "original_filenames": [
+        "宁德时代2025.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "宁德时代：2025年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "300769",
+      "company_name": "德方纳米",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300769/2025_df178ed345257b72.pdf",
+      "sha256": "df178ed345257b722f2794deeb6e06bae83c4ce710db194cba4eca97bf237d27",
+      "bytes": 1435112,
+      "page_count": 236,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "德方纳米：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-4/2026-04-29/12269479.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300769/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300769&id=12269479",
+      "published_at": "2026-04-29",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12269479",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "德方纳米：2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "12269479",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300769&id=12269479"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "1225249571",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300769&announcementId=1225249571"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.054614+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300772",
+      "company_name": "运达股份",
+      "report_year": 2021,
+      "report_type": "annual",
+      "relative_path": "reports/300772/2021_e8003d3a52604d56.pdf",
+      "sha256": "e8003d3a52604d5609cea5d24efe7ec7784d66ace03e4b911b950185529b2e2f",
+      "bytes": 1308692,
+      "page_count": 210,
+      "original_filenames": [
+        "2021_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "运达股份：2021年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2022/2022-3/2022-03-08/7870366.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300772/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=7870366",
+      "published_at": "2022-03-08",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "7870366",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "运达股份：2021年年度报告",
+            "published_date": "2022-03-08",
+            "announcement_id": "7870366",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=7870366"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2021年年度报告",
+            "published_date": "2022-03-08",
+            "announcement_id": "1212522777",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300772&announcementId=1212522777"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.375924+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300772",
+      "company_name": "运达股份",
+      "report_year": 2022,
+      "report_type": "annual",
+      "relative_path": "reports/300772/2022_e4f6460c078e9050.pdf",
+      "sha256": "e4f6460c078e90505ba5f74e342c200ee27f8ac9f1a990ea856fefe9c39cf02a",
+      "bytes": 1380603,
+      "page_count": 206,
+      "original_filenames": [
+        "2022_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "运达股份：2022年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2023/2023-4/2023-04-19/9008845.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300772/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=9008845",
+      "published_at": "2023-04-19",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "9008845",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "运达股份：2022年年度报告",
+            "published_date": "2023-04-19",
+            "announcement_id": "9008845",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=9008845"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2022年年度报告",
+            "published_date": "2023-04-19",
+            "announcement_id": "1216457533",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300772&announcementId=1216457533"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.395262+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300772",
+      "company_name": "运达股份",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/300772/2023_24ff1484ae7d49dc.pdf",
+      "sha256": "24ff1484ae7d49dcf4400c6a25fc9e46892e468b0bf8f0e5af8e611feebcfdca",
+      "bytes": 1338520,
+      "page_count": 231,
+      "original_filenames": [
+        "2023_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "运达股份：2023年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2024/2024-4/2024-04-19/9999292.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300772/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=9999292",
+      "published_at": "2024-04-19",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "9999292",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "运达股份：2023年年度报告",
+            "published_date": "2024-04-19",
+            "announcement_id": "9999292",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=9999292"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2023年年度报告",
+            "published_date": "2024-04-19",
+            "announcement_id": "1219669940",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300772&announcementId=1219669940"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.410174+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300772",
+      "company_name": "运达股份",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300772/2025_83c1c143c9d6a685.pdf",
+      "sha256": "83c1c143c9d6a685e5e3f5c915a76e2f39d110c3e5a95ae0ea3cdf1a246134b5",
+      "bytes": 1719356,
+      "page_count": 260,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "运达股份：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-24/12012403.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300772/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=12012403",
+      "published_at": "2026-03-24",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12012403",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "运达股份：2025年年度报告",
+            "published_date": "2026-03-24",
+            "announcement_id": "12012403",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300772&id=12012403"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-03-24",
+            "announcement_id": "1225025722",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300772&announcementId=1225025722"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.458282+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300850",
+      "company_name": "新强联",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/300850/2024_8aa2d4a6f359387b.pdf",
+      "sha256": "8aa2d4a6f359387bb625f8c36b187507f645e823edb07fc0f484157b1cf097d7",
+      "bytes": 1973726,
+      "page_count": 271,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "新强联：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2025/2025-4/2025-04-24/10952728.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300850/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300850&id=10952728",
+      "published_at": "2025-04-24",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10952728",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "新强联：2024年年度报告",
+            "published_date": "2025-04-24",
+            "announcement_id": "10952728",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300850&id=10952728"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2024年年度报告",
+            "published_date": "2025-04-24",
+            "announcement_id": "1223246973",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300850&announcementId=1223246973"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.440208+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "300850",
+      "company_name": "新强联",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/300850/2025_26af742ee5cb8c3f.pdf",
+      "sha256": "26af742ee5cb8c3f60420f6c85dcd9226cbf6be8210cdb05062a4a8e2563235e",
+      "bytes": 2067704,
+      "page_count": 254,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "新强联：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-3/2026-03-27/12020482.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/300850/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300850&id=12020482",
+      "published_at": "2026-03-27",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12020482",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "新强联：2025年年度报告",
+            "published_date": "2026-03-27",
+            "announcement_id": "12020482",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300850&id=12020482"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "2025年年度报告",
+            "published_date": "2026-03-27",
+            "announcement_id": "1225033379",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=300850&announcementId=1225033379"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.458282+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "600438",
+      "company_name": "通威股份",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/600438/2024_9b78aa09a4a6cb03.pdf",
+      "sha256": "9b78aa09a4a6cb039e9f7c32dad8e27bdc5a9feea4efd335446eab8f01ddc6f3",
+      "bytes": 2484891,
+      "page_count": 284,
+      "original_filenames": [
+        "通威股份2024.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "通威股份：2024年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "600438",
+      "company_name": "通威股份",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/600438/2025_f0bd49a42e0cc42e.pdf",
+      "sha256": "f0bd49a42e0cc42ea8766a6a8b10c70b912904788c4e69a03a9051ff29f4c2e0",
+      "bytes": 1772388,
+      "page_count": 254,
+      "original_filenames": [
+        "通威股份2025.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "通威股份：2025年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "601012",
+      "company_name": "隆基绿能",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/601012/2024_c9e11fc7ec92a59d.pdf",
+      "sha256": "c9e11fc7ec92a59d7d1ccfcf8a4f1fbb35ee8ec0435df16a3e968497b5f64bb8",
+      "bytes": 1875694,
+      "page_count": 301,
+      "original_filenames": [
+        "隆基绿能2024修订版.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "隆基绿能：2024年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "601012",
+      "company_name": "隆基绿能",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/601012/2025_10233740d54740b8.pdf",
+      "sha256": "10233740d54740b89dfd772eecac5f04d8fef639489acd3b18b1a35e81bce2c1",
+      "bytes": 3311470,
+      "page_count": 314,
+      "original_filenames": [
+        "隆基绿能2025.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "隆基绿能：2025年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "601615",
+      "company_name": "明阳智能",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/601615/2024_0ca092725b9927fa.pdf",
+      "sha256": "0ca092725b9927faa2ee12031a275936985fec15dd88de7d7d07bf91b29dcafb",
+      "bytes": 1954952,
+      "page_count": 275,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "明阳智能：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-26/10999757.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601615/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601615&id=10999757",
+      "published_at": "2025-04-26",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10999757",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "明阳智能：2024年年度报告",
+            "published_date": "2025-04-26",
+            "announcement_id": "10999757",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601615&id=10999757"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "明阳智慧能源集团股份公司2024年年度报告",
+            "published_date": "2025-04-26",
+            "announcement_id": "1223322777",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601615&announcementId=1223322777"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.297941+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "601615",
+      "company_name": "明阳智能",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/601615/2025_cb83dc2d7ac9dc65.pdf",
+      "sha256": "cb83dc2d7ac9dc65e0878c5f79b1d7e9aeb1cc5c93f2672922e8ffba8fe15a6e",
+      "bytes": 2120426,
+      "page_count": 278,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "明阳智能：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-29/12263192.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601615/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601615&id=12263192",
+      "published_at": "2026-04-29",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12263192",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "明阳智能：2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "12263192",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601615&id=12263192"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "明阳智慧能源集团股份公司2025年年度报告",
+            "published_date": "2026-04-29",
+            "announcement_id": "1225246044",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601615&announcementId=1225246044"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.316823+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "601865",
+      "company_name": "福莱特",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/601865/2025_571e00ae2ee1b2bd.pdf",
+      "sha256": "571e00ae2ee1b2bdb653f2c461757bfa0a92f62bdddb1ddb02297f118fb2ae72",
+      "bytes": 1468436,
+      "page_count": 221,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "福莱特：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-3/2026-03-27/12022409.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/601865/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601865&id=12022409",
+      "published_at": "2026-03-27",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12022409",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "福莱特：2025年年度报告",
+            "published_date": "2026-03-27",
+            "announcement_id": "12022409",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=601865&id=12022409"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "福莱特玻璃集团股份有限公司2025年年度报告",
+            "published_date": "2026-03-27",
+            "announcement_id": "1225035597",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=601865&announcementId=1225035597"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.170162+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "601868",
+      "company_name": "中国能建",
+      "report_year": 2022,
+      "report_type": "annual",
+      "relative_path": "reports/601868/2022_a639a9d7639c9e0f.pdf",
+      "sha256": "a639a9d7639c9e0fc36fda7875f9db4ffbb6a6acd273b846bd5413bd9aaa68ec",
+      "bytes": 1926769,
+      "page_count": 275,
+      "original_filenames": [
+        "中国能建2022.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "中国能建：2022年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "601868",
+      "company_name": "中国能建",
+      "report_year": 2023,
+      "report_type": "annual",
+      "relative_path": "reports/601868/2023_6c5150a4be4eefce.pdf",
+      "sha256": "6c5150a4be4eefcea15a26da1f4a1717ffe7fff6def89609a616e49f0811bf90",
+      "bytes": 1939074,
+      "page_count": 270,
+      "original_filenames": [
+        "中国能建2023.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "中国能建：2023年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "601868",
+      "company_name": "中国能建",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/601868/2024_9a5f5c876e4e7361.pdf",
+      "sha256": "9a5f5c876e4e7361da36e08ea3f976d5a1af1be6f675b8b272cae297cfda9c96",
+      "bytes": 2010129,
+      "page_count": 317,
+      "original_filenames": [
+        "中国能建2024.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "中国能建：2024年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "601868",
+      "company_name": "中国能建",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/601868/2025_67bd242929dc0c2c.pdf",
+      "sha256": "67bd242929dc0c2c85727418d5e76caabcceecb071eadc56c701c2be61b5de6f",
+      "bytes": 1930524,
+      "page_count": 307,
+      "original_filenames": [
+        "中国能建2025.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "user_supplied_local",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "中国能建：2025年年度报告",
+      "title_origin": "constructed_index_label",
+      "source_url": null,
+      "catalogue_url": null,
+      "disclosure_page": null,
+      "published_at": null,
+      "version_label": "local_version_not_online_verified",
+      "version_selection_basis": "only_available_distinct_local_bytes",
+      "source_provenance": {
+        "download_source": null,
+        "announcement_id": null,
+        "observed_versions": [],
+        "snapshot_checked_at": null,
+        "original_source_url_verified": false
+      }
+    },
+    {
+      "stock_code": "603659",
+      "company_name": "璞泰来",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/603659/2024_8a5aa568daa76385.pdf",
+      "sha256": "8a5aa568daa7638506c66ae716c82a5242eb9f3a9a195e3d9bc61fca80c016ea",
+      "bytes": 1866229,
+      "page_count": 247,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "璞泰来：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-26/11003648.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603659/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603659&id=11003648",
+      "published_at": "2025-04-26",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "11003648",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "璞泰来：2024年年度报告",
+            "published_date": "2025-04-26",
+            "announcement_id": "11003648",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603659&id=11003648"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "上海璞泰来新能源科技股份有限公司2024年年度报告",
+            "published_date": "2025-04-26",
+            "announcement_id": "1223327273",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603659&announcementId=1223327273"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.174104+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "603659",
+      "company_name": "璞泰来",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/603659/2025_4e81f5539046ba1e.pdf",
+      "sha256": "4e81f5539046ba1eee733100f38442a4abd5037afe3881115ba7f48678fa35b6",
+      "bytes": 1740667,
+      "page_count": 203,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "璞泰来：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-3/2026-03-06/11983558.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603659/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603659&id=11983558",
+      "published_at": "2026-03-06",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "11983558",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "璞泰来：2025年年度报告",
+            "published_date": "2026-03-06",
+            "announcement_id": "11983558",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603659&id=11983558"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "上海璞泰来新能源科技集团股份有限公司2025年年度报告",
+            "published_date": "2026-03-06",
+            "announcement_id": "1224998510",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603659&announcementId=1224998510"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:58.191301+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "603806",
+      "company_name": "福斯特",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/603806/2024_af00dc9b05cc3569.pdf",
+      "sha256": "af00dc9b05cc3569ea9357e232c021b52cb490f4ca20b798479dfef1d913de6a",
+      "bytes": 2053561,
+      "page_count": 257,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "福斯特：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-10/10856248.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/603806/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603806&id=10856248",
+      "published_at": "2025-04-10",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10856248",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "福斯特：2024年年度报告",
+            "published_date": "2025-04-10",
+            "announcement_id": "10856248",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603806&id=10856248"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "福斯特2024年年度报告",
+            "published_date": "2025-04-10",
+            "announcement_id": "1223042603",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603806&announcementId=1223042603"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.152487+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "603806",
+      "company_name": "福斯特",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/603806/2025_f03f391618846603.pdf",
+      "sha256": "f03f391618846603cb19e43538185d72a851e3dea7a6268fa2206768125292ad",
+      "bytes": 2507556,
+      "page_count": 224,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "福斯特2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://static.cninfo.com.cn/finalpage/2026-04-09/1225084000.PDF",
+      "catalogue_url": "https://www.cninfo.com.cn/new/hisAnnouncement/query",
+      "disclosure_page": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603806&announcementId=1225084000",
+      "published_at": "2026-04-09",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "cninfo",
+        "announcement_id": "1225084000",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "福斯特：2025年年度报告",
+            "published_date": "2026-04-09",
+            "announcement_id": "12067922",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=603806&id=12067922"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "福斯特2025年年度报告",
+            "published_date": "2026-04-09",
+            "announcement_id": "1225084000",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=603806&announcementId=1225084000"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.158626+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "688063",
+      "company_name": "派能科技",
+      "report_year": 2024,
+      "report_type": "annual",
+      "relative_path": "reports/688063/2024_d4cdce3ea7068404.pdf",
+      "sha256": "d4cdce3ea7068404e5d7d10b2fe2d75074e6fc0f1a12884f8649e4eb6cb07d23",
+      "bytes": 1518544,
+      "page_count": 261,
+      "original_filenames": [
+        "2024_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "派能科技：2024年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2025/2025-4/2025-04-12/10867781.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688063/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688063&id=10867781",
+      "published_at": "2025-04-12",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "10867781",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "派能科技：2024年年度报告",
+            "published_date": "2025-04-12",
+            "announcement_id": "10867781",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688063&id=10867781"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "上海派能能源科技股份有限公司2024年年度报告",
+            "published_date": "2025-04-12",
+            "announcement_id": "1223071587",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688063&announcementId=1223071587"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.887274+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "688063",
+      "company_name": "派能科技",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/688063/2025_eec677b662f06c6f.pdf",
+      "sha256": "eec677b662f06c6fdb6b6bf1bc6fb609afb96d3d9ce3934d16bee004f71366a3",
+      "bytes": 1521067,
+      "page_count": 302,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "派能科技：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-01/12053628.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688063/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688063&id=12053628",
+      "published_at": "2026-04-01",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12053628",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "派能科技：2025年年度报告",
+            "published_date": "2026-04-01",
+            "announcement_id": "12053628",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688063&id=12053628"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "上海派能能源科技股份有限公司2025年年度报告",
+            "published_date": "2026-04-01",
+            "announcement_id": "1225068748",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688063&announcementId=1225068748"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.906866+00:00",
+        "original_source_url_verified": true
+      }
+    },
+    {
+      "stock_code": "688599",
+      "company_name": "天合光能",
+      "report_year": 2025,
+      "report_type": "annual",
+      "relative_path": "reports/688599/2025_6d9789cced23c58d.pdf",
+      "sha256": "6d9789cced23c58dda26cddb174eda7e4e9431e17727bc501853cf7534491c99",
+      "bytes": 2216545,
+      "page_count": 335,
+      "original_filenames": [
+        "2025_年度报告.pdf"
+      ],
+      "selected_for_comparison": true,
+      "source_kind": "public_disclosure_download",
+      "financial_fields_validated": false,
+      "file_metadata_checked": true,
+      "title": "天合光能：2025年年度报告",
+      "title_origin": "disclosure_catalogue",
+      "source_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-4/2026-04-30/12285103.PDF",
+      "catalogue_url": "https://vip.stock.finance.sina.com.cn/corp/go.php/vCB_Bulletin/stockid/688599/page_type/ndbg.phtml",
+      "disclosure_page": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688599&id=12285103",
+      "published_at": "2026-04-30",
+      "version_label": "original",
+      "version_selection_basis": "latest_observed_catalogue_snapshot",
+      "source_provenance": {
+        "download_source": "sina",
+        "announcement_id": "12285103",
+        "observed_versions": [
+          {
+            "discovery_source": "sina",
+            "title": "天合光能：2025年年度报告",
+            "published_date": "2026-04-30",
+            "announcement_id": "12285103",
+            "detail_url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=688599&id=12285103"
+          },
+          {
+            "discovery_source": "cninfo",
+            "title": "天合光能股份有限公司2025年年度报告",
+            "published_date": "2026-04-30",
+            "announcement_id": "1225263857",
+            "detail_url": "https://www.cninfo.com.cn/new/disclosure/detail?stockCode=688599&announcementId=1225263857"
+          }
+        ],
+        "snapshot_checked_at": "2026-10-15T05:49:57.026961+00:00",
+        "original_source_url_verified": true
+      }
+    }
+  ],
+  "limitations": [
+    "Local snapshot; missing reports are explicit.",
+    "Only file metadata and sample financial workflows were checked; no full field certification."
+  ],
+  "submission_subset": true
+}

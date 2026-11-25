@@ -1,0 +1,90 @@
+[
+  {
+    "name": "bzip2",
+    "version": "1.0.8",
+    "build": "h2bbff1b_6",
+    "license": "bzip2-1.0.8",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/bzip2-1.0.8-h2bbff1b_6.conda"
+  },
+  {
+    "name": "libexpat",
+    "version": "2.8.4",
+    "build": "hd7fb8db_0",
+    "license": "MIT",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/libexpat-2.8.4-hd7fb8db_0.conda"
+  },
+  {
+    "name": "libffi",
+    "version": "3.4.8",
+    "build": "h42d73b9_3",
+    "license": "MIT",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/libffi-3.4.8-h42d73b9_3.conda"
+  },
+  {
+    "name": "libzlib",
+    "version": "1.3.2",
+    "build": "h1c6eee0_0",
+    "license": "Zlib",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/libzlib-1.3.2-h1c6eee0_0.conda"
+  },
+  {
+    "name": "openssl",
+    "version": "3.5.8",
+    "build": "hbb43b14_0",
+    "license": "Apache-2.0",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/openssl-3.5.8-hbb43b14_0.conda"
+  },
+  {
+    "name": "python",
+    "version": "3.12.14",
+    "build": "hd7b1df3_0",
+    "license": "PSF-2.0",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/python-3.12.14-hd7b1df3_0.conda"
+  },
+  {
+    "name": "sqlite",
+    "version": "3.53.4",
+    "build": "hee5a0db_0",
+    "license": "blessing",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.53.4-hee5a0db_0.conda"
+  },
+  {
+    "name": "tk",
+    "version": "8.6.15",
+    "build": "hf199647_0",
+    "license": "TCL",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/tk-8.6.15-hf199647_0.conda"
+  },
+  {
+    "name": "ucrt",
+    "version": "10.0.22621.0",
+    "build": "haa95532_0",
+    "license": "LicenseRef-MicrosoftWindowsSDK10",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/ucrt-10.0.22621.0-haa95532_0.conda"
+  },
+  {
+    "name": "vc14_runtime",
+    "version": "14.44.35208",
+    "build": "h4927774_12",
+    "license": "LicenseRef-MicrosoftVisualCpp2015-2022Runtime",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/vc14_runtime-14.44.35208-h4927774_12.conda"
+  },
+  {
+    "name": "xz",
+    "version": "5.8.4",
+    "build": "hb851c79_0",
+    "license": "LGPL-2.1-or-later and GPL-2.0-or-later and 0BSD",
+    "license_family": null,
+    "url": "https://repo.anaconda.com/pkgs/main/win-64/xz-5.8.4-hb851c79_0.conda"
+  }
+]

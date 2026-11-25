@@ -1,0 +1,12 @@
+/* Sidebar branding only. Workspace titles use their original styles.css rules. */
+.sidebar .brand { gap:15px; padding:10px 8px 25px; align-items:center; }
+.sidebar .brand-mark { flex:0 0 56px; width:56px; height:56px; border-radius:14px 14px 14px 5px; }
+.sidebar .brand-mark svg { width:35px; height:35px; }
+.sidebar .brand>div { min-width:0; gap:8px; }
+.sidebar .brand strong { font-size:28px; font-weight:800; letter-spacing:.1em; line-height:1.3; }
+.sidebar .brand small { font-size:14px; color:#b6ccd8; letter-spacing:.035em; line-height:1.6; white-space:normal; overflow-wrap:break-word; text-wrap:balance; }
+
+@media(max-width:760px) {
+  .sidebar .brand strong { font-size:26px; }
+  .sidebar .brand small { font-size:14px; }
+}

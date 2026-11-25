@@ -1,0 +1,506 @@
+{
+  "source_url": "https://www.cninfo.com.cn/new/data/szse_stock.json",
+  "checked_at": "2026-10-15T04:18:06.244022+00:00",
+  "classification_note": "研究业务分组，并非官方行业分类或自动可比性结论",
+  "items": [
+    {
+      "name": "亿纬锂能",
+      "code": "300014",
+      "exchange": "SZ",
+      "segment": "动力及储能电池",
+      "pinyin": "ywln",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "新宙邦",
+      "code": "300037",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "xzb",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "当升科技",
+      "code": "300073",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "dskj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "东方日升",
+      "code": "300118",
+      "exchange": "SZ",
+      "segment": "光伏硅料与组件",
+      "pinyin": "dfrs",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "欣旺达",
+      "code": "300207",
+      "exchange": "SZ",
+      "segment": "动力及储能电池",
+      "pinyin": "xwd",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "阳光电源",
+      "code": "300274",
+      "exchange": "SZ",
+      "segment": "逆变器与储能设备",
+      "pinyin": "ygdy",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "晶盛机电",
+      "code": "300316",
+      "exchange": "SZ",
+      "segment": "光伏制造设备",
+      "pinyin": "jsjd",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "鹏辉能源",
+      "code": "300438",
+      "exchange": "SZ",
+      "segment": "动力及储能电池",
+      "pinyin": "phny",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "先导智能",
+      "code": "300450",
+      "exchange": "SZ",
+      "segment": "电池制造设备",
+      "pinyin": "xdzn",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "赢合科技",
+      "code": "300457",
+      "exchange": "SZ",
+      "segment": "电池制造设备",
+      "pinyin": "yhkj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "星源材质",
+      "code": "300568",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "xycz",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "盛弘股份",
+      "code": "300693",
+      "exchange": "SZ",
+      "segment": "逆变器与储能设备",
+      "pinyin": "shgf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "捷佳伟创",
+      "code": "300724",
+      "exchange": "SZ",
+      "segment": "光伏制造设备",
+      "pinyin": "jjwc",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "宁德时代",
+      "code": "300750",
+      "aliases": ["宁德时代新能源科技股份有限公司"],
+      "exchange": "SZ",
+      "segment": "动力及储能电池",
+      "pinyin": "ndsd",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "迈为股份",
+      "code": "300751",
+      "exchange": "SZ",
+      "segment": "光伏制造设备",
+      "pinyin": "mwgf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "锦浪科技",
+      "code": "300763",
+      "exchange": "SZ",
+      "segment": "逆变器与储能设备",
+      "pinyin": "jlkj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "运达股份",
+      "code": "300772",
+      "exchange": "SZ",
+      "segment": "风电设备",
+      "pinyin": "ydgf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "上能电气",
+      "code": "300827",
+      "exchange": "SZ",
+      "segment": "逆变器与储能设备",
+      "pinyin": "sndq",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "中伟新材",
+      "code": "300919",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "zwxc",
+      "identity_status": "catalog_verified",
+      "verified": true,
+      "aliases": [
+        "中伟股份"
+      ]
+    },
+    {
+      "name": "通威股份",
+      "code": "600438",
+      "exchange": "SH",
+      "segment": "光伏硅料与组件",
+      "pinyin": "twgf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "国投电力",
+      "code": "600886",
+      "exchange": "SH",
+      "segment": "清洁能源与工程",
+      "pinyin": "gtdl",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "长江电力",
+      "code": "600900",
+      "exchange": "SH",
+      "segment": "清洁能源与工程",
+      "pinyin": "cjdl",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "三峡能源",
+      "code": "600905",
+      "exchange": "SH",
+      "segment": "清洁能源与工程",
+      "pinyin": "sxny",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "隆基绿能",
+      "code": "601012",
+      "exchange": "SH",
+      "segment": "光伏硅料与组件",
+      "pinyin": "ljln",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "明阳智能",
+      "code": "601615",
+      "exchange": "SH",
+      "segment": "风电设备",
+      "pinyin": "myzn",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "中国电建",
+      "code": "601669",
+      "exchange": "SH",
+      "segment": "清洁能源与工程",
+      "pinyin": "zgdj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "中国能建",
+      "code": "601868",
+      "exchange": "SH",
+      "segment": "清洁能源与工程",
+      "pinyin": "zgnj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "中国核电",
+      "code": "601985",
+      "exchange": "SH",
+      "segment": "清洁能源与工程",
+      "pinyin": "zghd",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "日月股份",
+      "code": "603218",
+      "exchange": "SH",
+      "segment": "风电设备",
+      "pinyin": "rygf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "璞泰来",
+      "code": "603659",
+      "exchange": "SH",
+      "segment": "电池材料与回收",
+      "pinyin": "ptl",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "容百科技",
+      "code": "688005",
+      "exchange": "SH",
+      "segment": "电池材料与回收",
+      "pinyin": "rbkj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "晶科能源",
+      "code": "688223",
+      "exchange": "SH",
+      "segment": "光伏硅料与组件",
+      "pinyin": "jkny",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "三一重能",
+      "code": "688349",
+      "exchange": "SH",
+      "segment": "风电设备",
+      "pinyin": "syzn",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "固德威",
+      "code": "688390",
+      "exchange": "SH",
+      "segment": "逆变器与储能设备",
+      "pinyin": "gdw",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "奥特维",
+      "code": "688516",
+      "exchange": "SH",
+      "segment": "光伏制造设备",
+      "pinyin": "atw",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "天合光能",
+      "code": "688599",
+      "exchange": "SH",
+      "segment": "光伏硅料与组件",
+      "pinyin": "thgn",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "国轩高科",
+      "code": "002074",
+      "exchange": "SZ",
+      "segment": "动力及储能电池",
+      "pinyin": "gxgk",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "恩捷股份",
+      "code": "002812",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "ejgf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "天赐材料",
+      "code": "002709",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "tccl",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "格林美",
+      "code": "002340",
+      "exchange": "SZ",
+      "segment": "电池材料与回收",
+      "pinyin": "glm",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "TCL中环",
+      "code": "002129",
+      "exchange": "SZ",
+      "segment": "光伏硅料与组件",
+      "pinyin": "tclzh",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "晶澳科技",
+      "code": "002459",
+      "exchange": "SZ",
+      "segment": "光伏硅料与组件",
+      "pinyin": "jakj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "协鑫集成",
+      "code": "002506",
+      "exchange": "SZ",
+      "segment": "光伏硅料与组件",
+      "pinyin": "xxjc",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "科士达",
+      "code": "002518",
+      "exchange": "SZ",
+      "segment": "逆变器与储能设备",
+      "pinyin": "ksd",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "科华数据",
+      "code": "002335",
+      "exchange": "SZ",
+      "segment": "逆变器与储能设备",
+      "pinyin": "khsj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "天齐锂业",
+      "code": "002466",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "tqly",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "赣锋锂业",
+      "code": "002460",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "gfly",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "永兴材料",
+      "code": "002756",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "yxcl",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "川能动力",
+      "code": "000155",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "cndl",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "西藏矿业",
+      "code": "000762",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "xzky",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "融捷股份",
+      "code": "002192",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "rjgf",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "雅化集团",
+      "code": "002497",
+      "exchange": "SZ",
+      "segment": "锂资源与锂盐",
+      "pinyin": "yhjt",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "金风科技",
+      "code": "002202",
+      "exchange": "SZ",
+      "segment": "风电设备",
+      "pinyin": "jfkj",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "天顺风能",
+      "code": "002531",
+      "exchange": "SZ",
+      "segment": "风电设备",
+      "pinyin": "tsfn",
+      "identity_status": "catalog_verified",
+      "verified": true
+    },
+    {
+      "name": "比亚迪",
+      "code": "002594",
+      "exchange": "SZ",
+      "segment": "新能源整车",
+      "pinyin": "byd",
+      "identity_status": "catalog_verified",
+      "verified": true
+    }
+  ]
+}

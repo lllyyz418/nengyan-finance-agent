@@ -1,0 +1,34 @@
+.risk-main .risk-applied-setting { color:#167c78; font-size:14px; font-weight:600; }
+.risk-已完成复核 { border-left-color:var(--teal); }
+.risk-已完成复核 .risk-icon { color:var(--teal); background:var(--teal-light); }
+.status-已完成复核 { color:var(--teal); border-color:#a6cec8; background:#edf8f6; }
+.risk-发现变化，需复核,.risk-需人工确认 { border-left-color:var(--gold); }
+.risk-发现变化，需复核 .risk-icon,.risk-需人工确认 .risk-icon { color:var(--gold); background:var(--gold-light); }
+.status-发现变化，需复核,.status-需人工确认 { color:#8a671f; border-color:#d9c28d; background:#fff8e8; white-space:nowrap; }
+.policy-evidence-links { display:flex; flex-direction:column; align-items:flex-start; gap:10px; max-width:190px; }
+.policy-evidence-links .text-button { white-space:normal; text-align:left; align-items:flex-start; }
+.policy-review-row .risk-main { min-width:0; }
+.risk-list .risk-details { grid-template-columns:minmax(180px,.8fr) minmax(0,1.5fr) auto; }
+.risk-details li { align-items:flex-start; margin-bottom:7px; }
+.risk-details li>svg { flex-shrink:0; margin-top:5px; }
+.risk-list .risk-details li>span { font-size:15px; line-height:1.7; font-weight:400; color:#40566b; overflow-wrap:anywhere; }
+.metric-period-cell { display:grid; gap:5px; min-width:105px; }
+.metric-period-cell small { color:#718496; font-size:13px; font-weight:400; }
+.metric-diagnostic-cell { display:grid; gap:8px; min-width:220px; max-width:350px; line-height:1.65; }
+.metric-diagnostic-cell .unavailable-copy { max-width:none; font-size:14px; line-height:1.7; overflow-wrap:anywhere; }
+.metric-diagnostic-cell .source-link { font-size:14px; width:max-content; }
+.metric-diagnostic-cell details { color:#65798a; font-size:13px; }
+.metric-diagnostic-cell summary { cursor:pointer; }
+.metric-diagnostic-cell p { margin:6px 0 0; }
+.table-wrap .scroll-table table { min-width:1180px; table-layout:fixed; }
+.table-wrap .scroll-table th:nth-child(1) { width:260px; }
+.table-wrap .scroll-table th:nth-child(2), .table-wrap .scroll-table th:nth-child(3) { width:125px; }
+.table-wrap .scroll-table th:nth-child(4) { width:155px; }
+.table-wrap .scroll-table th:nth-child(5) { width:100px; }
+.table-wrap .scroll-table th:nth-child(6) { width:85px; }
+.table-wrap .scroll-table th:nth-child(7) { width:330px; }
+.table-wrap .scroll-table th button { white-space:nowrap; font-size:13px; gap:3px; padding:0 8px; }
+.table-wrap .scroll-table th button svg { flex-shrink:0; }
+.table-wrap .scroll-table td:nth-child(4), .table-wrap .scroll-table td:nth-child(5), .table-wrap .scroll-table td:nth-child(6) { white-space:nowrap; font-size:14px; }
+.table-wrap .scroll-table .status { white-space:nowrap; }
+@media(max-width:900px) { .risk-list .risk-details { grid-template-columns:1fr; gap:12px; }.risk-details li>span { font-size:14px; } }

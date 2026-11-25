@@ -1,0 +1,29 @@
+# 运行时与本地数据（不纳入版本库）
+runtime/
+run/
+.env
+*.log
+
+# 交付包中的大体积材料
+materials/pdf_store/
+
+# 构建产物与依赖
+workbench/dist/
+workbench/node_modules/
+**/node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tsbuildinfo
+
+# 本地分析数据
+workbench/backend/data/
+workbench/backend/logs/
+*.sqlite3
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
